@@ -1,0 +1,4 @@
+F:\Workshop 1\bin\Debug\Workshop 1.exe
+F:\Workshop 1\bin\Debug\Workshop 1.pdb
+F:\Workshop 1\obj\Debug\Workshop 1.exe
+F:\Workshop 1\obj\Debug\Workshop 1.pdb
